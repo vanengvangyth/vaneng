@@ -13,7 +13,7 @@ const Counter = ({ initialValue }) => {
   return (
     <View style={styles.container}>
       <View style={styles.header}>
-        <Text style={styles.name}>Yah Lee Cw1</Text>
+        <Text style={styles.name}>Vanengvang</Text>
       </View>
       <Text style={styles.counterValue}>Counter Value: {count}</Text>
       <TouchableOpacity style={styles.button} onPress={incrementCounter}>
